@@ -153,7 +153,18 @@ https://caniuse.com/?search=translate
 Animaciones css
 https://animate.style/
 https://michalsnik.github.io/aos/
-proyecto n3
-    sass(nestin, import, variables, mixin(con o sin parametros), extend)
 editor de imagenes
 https://tinypng.com
+https://zyro.com/es/herramientas/upscaler-de-imagenes
+https://squoosh.app/
+baja mas la resolucion
+https://www.iloveimg.com/es/descarga/nvh1hrxAjrwsAbbfx7jb7911A8kA1n056lsmyr84xg3zxyt6q8ctxf3pscx8k861s54pnn41v31kr1gs7vfb42pj282dcxz7b1j5bydsqm1v1yx68f84kkxczqpj56h8jxmmbd8nnj0kykt0ht7Ajv27yp9g464rh97gjt8q18w7f33yb06q/15
+proyecto n3
+    	sass(nextin, import, variables, mixin(con o sin parametros), extend)
+	no usar lorems
+	adaptar todas las paginas
+	imagenes que hagan referencia a lo que vendo
+	meta description y metakeywords
+	entregar por git/github
+	boostrap, usar un elemento en todos los html
+	
